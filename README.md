@@ -1,7 +1,12 @@
 # Calculadora de Idade
 
+https://github.com/edumachadodarosa/CalcularIdade/assets/145352273/3b2b44dd-3ace-41d5-b472-f19ec5ee64cd
 
 ##  Descrição
+
+
+
+
 
 Este é um projeto simples de uma Calculadora de Idade desenvolvida em HTML, CSS e JavaScript. A aplicação permite que o usuário insira sua data de nascimento e clique em um botão para calcular e exibir a idade.
 
